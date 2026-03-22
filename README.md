@@ -51,9 +51,6 @@
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\Sister.jpg" width="300px height="500px" alt="Sister">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\Mother.jpg" width="300px height="500px" alt="Mother">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\IMG_0311.JPG" width="300px height="500px" alt="IMG_0311">
-
-
-
 <h1 style="color:blue;"> Professional Profile: </h1>
 <P style="font-size:22px;"> I like to solve a challenging problems in a high-quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
 I am dynamic and results-oriented Manufacturing Engineering professional and academic leader with strong experience in teaching, research, curriculum development, and institutional leadership. 
