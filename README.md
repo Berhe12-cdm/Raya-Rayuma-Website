@@ -22,7 +22,7 @@
 <P style="text-align:center; font-size:20px">Phone Number: +25196713xxxx</P>
   <img src="Mekides.JPG" width="305px height="240px" alt="Mekides">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\line1.jpg" width="700px height="1300px" alt="line1">
-<img src="C:\Users\berhe\Desktop\HTML FILES\image.html\Berhe Hawasa1.jpg" width="260px height="100px" alt="Berhe Hawasa1">
+<img src="(https://github.com/Berhe12-cdm/Raya-Rayuma-Website/blob/main/images/Berhe%20Hawasa1.jpg)" width="260px height="100px" alt="Berhe Hawasa1">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\Berhe Hawasa2.jpg" width="300px height="300px" alt="Berhe Hawasa2">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\line3.jpg" width="400px height="250px" alt="line3">
 <img src="C:\Users\berhe\Desktop\HTML FILES\image.html\Berhe Zway.jpg" width="300px height="200px" alt="Berhe Zway">
