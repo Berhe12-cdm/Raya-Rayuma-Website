@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -74,7 +75,7 @@
             padding-top: 15px;
         }
     </style>
-    </haed>
+    </head>
 <body>
 <h1 style="text-align:center; color:blue">PROFESSIONAL PORTFOLIO</h1>
 <h1 style="text-align:center; color:blue">Berhe Syum Mebrahtu</h1>
