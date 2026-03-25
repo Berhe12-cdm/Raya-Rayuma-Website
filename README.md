@@ -75,7 +75,7 @@
             padding-top: 15px;
         }
     </style>
-</head>
+    </haed>
 <body>
 <h1 style="text-align:center; color:blue">PROFESSIONAL PORTFOLIO</h1>
 <h1 style="text-align:center; color:blue">Berhe Syum Mebrahtu</h1>
