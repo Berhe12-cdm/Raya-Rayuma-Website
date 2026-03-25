@@ -1,81 +1,82 @@
+<!DOCTYPE html>
 <html>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<head> <title>Raya Rayuma Website </title> </head>
-<style>
-    body {
-        background-color: #ccffaa;
-        font-family: Arial, sans-serif;
-    }
-    
-    /* Certificate Card Style */
-.certificate-card {
-        background: linear-gradient(135deg, #fff9e8 0%, #fff4e0 100%);
-        border: 3px double #d4af37;
-        border-radius: 20px;
-        padding: 20px 25px;
-        margin: 20px 15px;
-        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-        position: relative;
-    }
-    
-    .certificate-card h3 {
-        text-align: center;
-        font-size: 28px;
-        color: #b8860b;
-        margin-bottom: 5px;
-        font-family: 'Georgia', serif;
-    }
-    
-    .certificate-card .cert-subtitle {
-        text-align: center;
-        font-size: 14px;
-        color: #8b5a2b;
-        border-bottom: 2px solid #f0c674;
-        padding-bottom: 10px;
-        margin-bottom: 15px;
-    }
-    
-    .award-item {
-        margin: 12px 0;
-        padding: 8px 12px;
-        background: rgba(255,245,215,0.6);
-        border-left: 5px solid #d4af37;
-        font-size: 18px;
-    }
-    
-    .teamwork-ol {
-        background: #fef7e0;
-        padding: 20px 25px 20px 45px;
-        border-radius: 15px;
-        margin: 15px 0;
-        font-size: 18px;
-        line-height: 1.6;
-    }
-    
-    .teamwork-ol li {
-        margin: 12px 0;
-        color: #2c3e2f;
-    }
-    
-    .teamwork-ol li::marker {
-        color: #d4a017;
-        font-weight: bold;
-        font-size: 1.2em;
-    }
-    
-    .cert-seal {
-        text-align: right;
-        margin-top: 20px;
-        font-style: italic;
-        color: #8b5a2b;
-        border-top: 1px dashed #e6c88a;
-        padding-top: 15px;
-    }
-</style>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Raya Rayuma Website</title>
+    <style>
+        body {
+            background-color: #ccffaa;
+            font-family: Arial, sans-serif;
+        }
+        
+        /* Certificate Card Style */
+        .certificate-card {
+            background: linear-gradient(135deg, #fff9e8 0%, #fff4e0 100%);
+            border: 3px double #d4af37;
+            border-radius: 20px;
+            padding: 20px 25px;
+            margin: 20px 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            position: relative;
+        }
+        
+        .certificate-card h3 {
+            text-align: center;
+            font-size: 28px;
+            color: #b8860b;
+            margin-bottom: 5px;
+            font-family: 'Georgia', serif;
+        }
+        
+        .certificate-card .cert-subtitle {
+            text-align: center;
+            font-size: 14px;
+            color: #8b5a2b;
+            border-bottom: 2px solid #f0c674;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .award-item {
+            margin: 12px 0;
+            padding: 8px 12px;
+            background: rgba(255,245,215,0.6);
+            border-left: 5px solid #d4af37;
+            font-size: 18px;
+        }
+        
+        .teamwork-ol {
+            background: #fef7e0;
+            padding: 20px 25px 20px 45px;
+            border-radius: 15px;
+            margin: 15px 0;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        
+        .teamwork-ol li {
+            margin: 12px 0;
+            color: #2c3e2f;
+        }
+        
+        .teamwork-ol li::marker {
+            color: #d4a017;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        
+        .cert-seal {
+            text-align: right;
+            margin-top: 20px;
+            font-style: italic;
+            color: #8b5a2b;
+            border-top: 1px dashed #e6c88a;
+            padding-top: 15px;
+        }
+    </style>
 </head>
 <body>
-
 <h1 style="text-align:center; color:blue">PROFESSIONAL PORTFOLIO</h1>
 <h1 style="text-align:center; color:blue">Berhe Syum Mebrahtu</h1>
 <h1 style="text-align:center; color:green">Raya University</h1>
