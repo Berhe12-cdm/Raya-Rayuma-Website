@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Raya Rayuma Website - Berhe Syum Mebrahtu</title>
+<title>Raya Rayuma Website - Berhe Syum Mebrahtu</title> </head>
 <style>
     body {
         background-color: #ccffaa;
