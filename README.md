@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +9,7 @@
     }
     
     /* Certificate Card Style */
-    .certificate-card {
+.certificate-card {
         background: linear-gradient(135deg, #fff9e8 0%, #fff4e0 100%);
         border: 3px double #d4af37;
         border-radius: 20px;
